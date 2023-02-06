@@ -1,3 +1,3 @@
-<center>
+<p align="center">
   🍅
-</center>
+<p>
